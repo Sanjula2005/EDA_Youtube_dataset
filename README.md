@@ -1,4 +1,4 @@
-## YouTube Channel Analytics Project
+## YouTube Analytics Project
 
 Welcome to the **YouTube Channel Analytics** project! This repository contains data-driven insights and visualizations based on various aspects of YouTube channels. By analyzing a wide range of attributes, from subscribers to earnings, this project reveals intriguing patterns and relationships that shape the world of YouTube content creators.
 
